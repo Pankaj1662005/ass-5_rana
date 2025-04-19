@@ -45,8 +45,8 @@ This project focuses on optimizing a **Support Vector Machine (SVM)** classifier
 ---
 
 ## 📊 Convergence Plot (S5)
+![download](https://github.com/user-attachments/assets/90561c70-e4b5-44ff-a4f5-0e8554107f47)
 
-![Convergence](convergence_best_sample.png)
 
 ---
 
@@ -59,8 +59,20 @@ This project focuses on optimizing a **Support Vector Machine (SVM)** classifier
 
 ---
 
+
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any queries, feel free to contact **Pankaj** at [pankajsheokand2005@gmail.com].
+
+
 ## 💾 How to Run
 
 ```bash
 pip install -r requirements.txt
 python svm_optimizer.py
+
+
+
